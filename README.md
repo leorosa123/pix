@@ -7,9 +7,6 @@
 <h3>Como utilizar?</h3>
 <p>Chamar a classe principal e informar os dados necessários como tal: "nome do recebedor", "chave do pix", "valor de transf", "cidade" "instituição"</p>
 
-<h3>Objetivos:</h3>
-<p>Compreender o funcionamento da estrutura pix padrão de acordo com as normas do banco central e gerar forma de pagamento válida através de pix copia e cola e QRCODE</p>
-
 
 <h3>Objetivos:</h3>
 <p>Compreender o funcionamento da estrutura pix padrão de acordo com as normas do banco central e gerar formas de pagamento válidas através de pix copia e cola e QRCODE</p>
@@ -24,7 +21,7 @@
 <p>link: https://www.youtube.com/@alexsussa/channels</p>
 
 
-#Cuidados com o programa:
+# Cuidados com o programa:
 
 <p>O programa utilizou das blibiotecas: Crcmod e qrcode</p>
 

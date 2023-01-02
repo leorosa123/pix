@@ -1,5 +1,5 @@
 # Utilizando documentação do banco central para pagamentos PIX
-# _____________________________________________________________________________________________________
+
 
 <h3>Tipos de pagamento?</h3>
 <p>Funciona com todos os tipos de chave pix</p>
